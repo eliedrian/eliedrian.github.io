@@ -114,7 +114,7 @@ After creating our special repository, we can now push our site to GitHub with t
 	# For example: git remote add origin git@github.com:eliedrian/eliedrian.github.io.git
 	~~~
 
-3. Commit files to giit
+3. Commit files to git
 
 	~~~ shell
 	$ git add . && git commit -m "Initial commit"

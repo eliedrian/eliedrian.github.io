@@ -90,6 +90,8 @@ body {
 		box-sizing: border-box;
 		background-image: url("./guide2.png");
 		background-size: contain;
+		background-color: rgba(255, 255, 255, 0.4);
+		background-blend-mode: lighten;
 		align-content: center;
 		text-align: center;
 		font-size: 48px;
